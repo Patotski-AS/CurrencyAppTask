@@ -1,8 +1,7 @@
 package com.example.android.presentation
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.android.R
+import androidx.appcompat.app.AppCompatActivity
 import com.example.android.databinding.ActivityMainBinding
 import dagger.hilt.android.AndroidEntryPoint
 
